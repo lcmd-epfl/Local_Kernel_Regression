@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5172582.svg)](https://doi.org/10.5281/zenodo.5172582)
+
 Generating the LKR model consists on 6 steps:
 
 1- Generating the representations
