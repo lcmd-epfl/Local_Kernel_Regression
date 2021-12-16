@@ -6,7 +6,7 @@ Generating the LKR model consists on 6 steps:
 
 The script 1-gen_reps.py generates the aSLATM representations of the structures in the xyzs directory
 
-2- Separating the atomic environments of different atomic spicies
+2- Separating the atomic environments of different atomic species
 
 The script 2-gen_at_envs.py agregates the the aSLATM representations of atoms of the same type. 
 At the same time, it reduces the size of the aSLATM representations by evaluating which dimensions of the representation are constant over the data.
